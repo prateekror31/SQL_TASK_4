@@ -1,6 +1,6 @@
 # ✈️ SQL_Task - 4
 
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![SQL](https://img.shields.io/badge/SQL-Practice-blue)
 ![Level](https://img.shields.io/badge/Level-Advanced-green)
 ![Database](https://img.shields.io/badge/Database-MySQL-orange)
 ![Domain](https://img.shields.io/badge/Domain-Aviation%20%26%20Transactions-purple)
